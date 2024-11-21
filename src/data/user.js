@@ -30,7 +30,7 @@ const INFO = {
 	projects: [
 	
 		{
-			title: "Recipe Book Website (ASP.NET + MongoDB	)",
+			title: "Recipe Book Website (ASP.NET + SQL Server	)",
 			description:
 				"I created a Recipe Book website using ASP.NET for the frontend and backend, with MongoDB for database management. The platform allows users to store, manage, and display recipes efficiently, offering a clean and responsive design.",
 			logo: "../recipe.png",

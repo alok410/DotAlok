@@ -28,12 +28,7 @@ const INFO = {
 	},
 
 	projects: [
-		{
-			title: "Portfolio Website (ASP.NET MVC + SQL)",
-			description:
-				"I developed a dynamic portfolio website using ASP.NET MVC with SQL for database management. The website features interactive content and engaging animations, showcasing my work with advanced UI/UX design. It provides seamless navigation and functionality for a great user experience.",
-			logo: "../Portfolio.jpg",
-		},
+	
 		{
 			title: "Recipe Book Website (ASP.NET + MongoDB	)",
 			description:
@@ -47,10 +42,10 @@ const INFO = {
 			logo: "../leaveRequest.png",
 		},
 		{
-			title: "Job Portal (ASP.NET MVC + MongoDB)",
+			title: "Portfolio Website (Reactjs+NodeJS)",
 			description:
-				"I developed a Job Portal application using ASP.NET MVC for the frontend and backend and MongoDB for database management. The portal provides a seamless platform for users to search and apply for jobs, featuring an intuitive user interface and efficient backend logic.",
-			logo: "../jobportal.png",
+				"I developed a dynamic portfolio website using ASP.NET MVC with SQL for database management. The website features interactive content and engaging animations, showcasing my work with advanced UI/UX design. It provides seamless navigation and functionality for a great user experience.",
+			logo: "../Portfolio.jpg",
 		},
 	],
 };

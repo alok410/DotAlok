@@ -44,7 +44,7 @@ const INFO = {
 		{
 			title: "Portfolio Website (Reactjs+NodeJS)",
 			description:
-				"I developed a dynamic portfolio website using ASP.NET MVC with SQL for database management. The website features interactive content and engaging animations, showcasing my work with advanced UI/UX design. It provides seamless navigation and functionality for a great user experience.",
+				"I have created a dynamic portfolio website with interactive content and engaging animations using React.js. The website enhances my products with advanced UI/UX features, providing flawless functionality and a great customer experience.",
 			logo: "../Portfolio.jpg",
 		},
 	],
